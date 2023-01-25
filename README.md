@@ -18,6 +18,6 @@ Note: KTaNE is an abbreviation of a game called Keep Talking and Nobody Explodes
 - Contributed to small amount of Chinese translation for Roughly Enough Items
 
 ---
-### In Progress Projects:
+### In Progress:
 - Discord bot for TETR.IO (currently closed source, sorry!)
 - **The sacrifising of my precious life**
