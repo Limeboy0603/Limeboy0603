@@ -15,7 +15,6 @@ Note: KTaNE is an abbreviation of a game called Keep Talking and Nobody Explodes
 ### Side Projects:
 - Personal website: limeboy0603.github.io
 - A bunch of other KTaNE manuals
-- Contributed to small amount of Chinese translation for Roughly Enough Items
 
 ---
 ### In Progress:
