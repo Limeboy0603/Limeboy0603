@@ -13,7 +13,7 @@ Note: KTaNE is an abbreviation of a game called Keep Talking and Nobody Explodes
 ---
 
 ### Side Projects:
-- [Personal website](limeboy0603.github.io)
+- [Personal website](https://limeboy0603.github.io/)
 - A bunch of other KTaNE manuals
 
 ---
