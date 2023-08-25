@@ -1,5 +1,5 @@
 ### About me:
-Hello, my name is Limeboy0603. I am a Year 2 University Student, studying Computer Science in City University of Hong Kong.
+Hello, my name is Limeboy0603. I am a Year 3 University Student, studying Computer Science in City University of Hong Kong.
 
 ---
 
