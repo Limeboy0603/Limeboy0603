@@ -1,5 +1,5 @@
 ### About me:
-Hello, my name is Limeboy0603. I am a Year 3 University Student, studying Computer Science in City University of Hong Kong.
+Hello, my name is Limeboy0603. I am a Year 4 University Student, studying Computer Science in City University of Hong Kong.
 
 ---
 
@@ -19,3 +19,4 @@ Note: KTaNE is an abbreviation of an indie game called Keep Talking and Nobody E
 ---
 ### In Progress:
 - Discord bot for TETR.IO (currently closed source, sorry!)
+- Sign Language Recognition and Translation System
